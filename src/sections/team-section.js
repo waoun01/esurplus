@@ -99,7 +99,7 @@ const data = [
     imgSrc: Member4,
     altText: 'Paul Meyer',
     title: 'Paul Meyer',
-    designation: 'Founder, Director, and Reseacher',
+    designation: 'Founder, Director, UCL Project Manager, and Reseacher',
     socialProfile: [
       {
         id: 1,
