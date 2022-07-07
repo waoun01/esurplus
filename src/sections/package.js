@@ -118,7 +118,7 @@ const packages = {
     {
       id: 1,
       name: "University College London",
-      description: "Project manager: Udaya Goel",
+      description: "Project manager: Paul Meyer and Udaya Goel",
       buttonText: "Start free trail",
       priceWithUnit: "$0",
       points: [
