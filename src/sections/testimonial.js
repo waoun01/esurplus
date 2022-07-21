@@ -21,7 +21,7 @@ const data = [
     designation: "@denny.hil",
     review: 4,
   },
-  {
+  /*{
     id: 2,
     title: 'Work ethic',
     description:
@@ -60,7 +60,7 @@ const data = [
     name: 'Paul Meyer - High-maintenance prostitute',
     designation: '@denny.hil',
     review: 4,
-  },
+  },*/
 ];
 
 const responsive = {
