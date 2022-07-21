@@ -16,6 +16,7 @@ export default function Banner() {
           <Text as="p" variant="heroSecondary">
             In 2021, an estimated 57.4 million tonnes of electronic waste was discarded, outweighing the Great Wall of China. In 2022, help us make a change!
           </Text>
+          <Seminars />
           {/*<form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="UCC8P7FG279KC" />
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
