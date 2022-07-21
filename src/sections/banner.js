@@ -4,6 +4,7 @@ import { Container, Box, Heading, Text, Image, Button } from 'theme-ui';
 import BannerImg from 'assets/banner-thumb.png';
 import ShapeLeft from 'assets/shape-left.png';
 import ShapeRight from 'assets/shape-right.png';
+import Seminars from 'components/seminars';
 
 export default function Banner() {
   return (
